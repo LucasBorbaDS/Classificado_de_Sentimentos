@@ -172,6 +172,7 @@ O desempenho foi medido no conjunto de teste independente (25% da base, dados nu
 
 ## 👤 Autor e Créditos
 
-Desenvolvido por **Lucas Ricardo Borba** ([@LucasBorbaDS](https://github.com/LucasBorbaDS)) como parte do curso **Fundamentos de Linguagem Python para Análise de Dados e Data Science** (Capítulo 11 - Mini-Projeto 6) da **Data Science Academy (DSA)**.
+Desenvolvido por **Lucas Ricardo Borba** ([@LucasBorbaDS](https://github.com/LucasBorbaDS)) como parte do curso 
+**Data Science Academy (DSA)**.
 
 📧 Contato: `borbalucas33@gmail.com`
