@@ -111,8 +111,8 @@ Este projeto utiliza o **[uv](https://docs.astral.sh/uv/)** para gerenciamento d
 
 ### 1. Clonar o Repositório
 ```bash
-git clone https://github.com/LucasBorbaDS/Classificado_de_Sentimentos.git
-cd Classificado_de_Sentimentos
+git clone https://github.com/LucasBorbaDS/Classificador_de_Sentimentos.git
+cd Classificador_de_Sentimentos
 ```
 
 ### 2. Sincronizar o Ambiente com `uv`
