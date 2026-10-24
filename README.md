@@ -91,7 +91,7 @@ flowchart LR
 
 ```text
 projeto-python/
-├── MiniProjeto6.ipynb               # Notebook interativo completo e comentado
+├── ClassificadorDeSentimentos.ipynb # Notebook interativo completo e comentado
 ├── dataset.csv                      # Base de dados de reviews de clientes
 ├── modelo_sentimento_dsa_v1.joblib  # Modelo treinado e serializado para produção
 ├── pyproject.toml                   # Especificação moderna de dependências (PEP 621)
@@ -111,8 +111,8 @@ Este projeto utiliza o **[uv](https://docs.astral.sh/uv/)** para gerenciamento d
 
 ### 1. Clonar o Repositório
 ```bash
-git clone https://github.com/LucasBorbaDS/projeto-python.git
-cd projeto-python
+git clone https://github.com/LucasBorbaDS/Classificado_de_Sentimentos.git
+cd Classificado_de_Sentimentos
 ```
 
 ### 2. Sincronizar o Ambiente com `uv`
@@ -125,7 +125,7 @@ uv sync
 ### 3. Abrir o Notebook
 Você pode abrir o notebook no VS Code ou iniciar o Jupyter:
 ```bash
-uv run jupyter notebook MiniProjeto6.ipynb
+uv run jupyter notebook ClassificadorDeSentimentos.ipynb
 ```
 
 ---
@@ -172,7 +172,5 @@ O desempenho foi medido no conjunto de teste independente (25% da base, dados nu
 
 ## 👤 Autor e Créditos
 
-Desenvolvido por **Lucas Ricardo Borba** ([@LucasBorbaDS](https://github.com/LucasBorbaDS)) como parte do curso 
-**Data Science Academy (DSA)**.
-
+Desenvolvido por **Lucas Ricardo Borba** ([@LucasBorbaDS](https://github.com/LucasBorbaDS)) 
 📧 Contato: `borbalucas33@gmail.com`
